@@ -318,7 +318,7 @@ created.</li>
 <p>
  <ol type="1">
  <li>Extract the zip file to the desktop..</li>
- <li>Extracted file will appear on the desktop</li>
+ <li>Extracted folder osTicket-Installation-Fill will appear on the desktop</li>
  </ol>
  </p>
 <p>
