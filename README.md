@@ -355,7 +355,7 @@ created.</li>
  <p>
  <ol type="1">
    <li>A Windows Features window will appear</li>
- <li>In the Windows features we will Install / Enable IIS in Windows WITH CGI.</li>
+ <li>In the Windows features we will Install / Enable IIS in Windows with CGI.</li>
  <li>Check the box and click the plus sign next to Internet Information Services to expand more options.</li>
  <li>Click the plus sign next to World Wide Web Services to expand more options.</li>
  <li>Click the plus sign next to the Application Development Features to expand more options.</li>
