@@ -331,7 +331,7 @@ created.</li>
  <hr>
 
 
-<h1 id="install"><i>Install / Enable IIS in Windows WITH CGI/i></h1>
+<h1 id="install"><i>Install / Enable IIS in Windows WITH CGI</i></h1>
  <p>
  <ol type="1">
  <li>Search for an open the Control Panel.</li>
