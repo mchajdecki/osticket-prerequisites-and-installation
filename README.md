@@ -38,6 +38,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <li><a href="#vm">Creating a Virtual Machine</a></li>
 <li><a href="#login">Logging Into Virtual Machine</a></li>
 <li><a href="#download">Download The osTicket Installation Files</a></li>
+<li><a href="#install">Installing the contents of the osTicket File</a></li>
 </ul>
 
 <br/>
@@ -330,6 +331,7 @@ created.</li>
  <hr>
 
  <p>
+   <h1>Install / Enable IIS in Windows WITH CGI</h1>
  <ol type="1">
  <li>Search for an open the Control Panel.</li>
  <li>Click on Programs to continue.</li>
