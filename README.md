@@ -446,3 +446,15 @@ created.</li>
  <br>
  <hr>
 
+ <p>
+ <ol type="1">
+ <li>Create a new folder in the Windows (C:) drive.</li>
+   <li>Right click inside the folder - select new - click on folder to create.</li>
+   <li>Name it PHP</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/934acc231d6682e78fda12853cae39edcb8c0210/images/Slide_20.jpg" alt="DownloadosTicket-Slide_20">
+</p>
+ <br>
+ <hr>
