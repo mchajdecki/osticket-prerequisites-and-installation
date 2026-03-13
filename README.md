@@ -306,7 +306,7 @@ created.</li>
   <ol type="1">
     <li>In the virtual machine click the following link to download the osticket installation files <a href="https://github.com/mchajdecki/osticket-prerequisites/releases/latest/download/osTicket-Installation-Files.zip" class="btn">
    osTicket-Installation-Files-Download Here </a>
-      <li>The provided link should download the folder directly - if the Google Drive message pops up select - Download anyway button to continue.</li>
+      <li>The provided link should download the folder directly - if the Google Drive message pops up then select - Download anyway button to continue.</li>
     <li>The direct download will appear in the downloads to the right on the browser.</li>
     <li>Click on the folder icon to go to the dedicated folder that the osTicket-Installation-Files downloaded into.</li>
   </ol>
