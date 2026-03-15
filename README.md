@@ -463,7 +463,6 @@ created.</li>
  <p>
  <ol type="1">
  <li>From the osTicket-Installation-FIles right click the php-7.3.8-nts-Win32-VC15-x86.zip and select Extract All.</li>
- <li></li>
  </ol>
  </p>
 <p>
