@@ -597,3 +597,17 @@ created.</li>
 </p>
  <br>
  <hr>
+
+ 
+  <p>
+ <ol type="1">
+ <li>In the Internet Information Services (IIS) Manager go to the osTicket.</li>
+<li>In the Actions menu select STOP to stop the server.</li>
+   <li>Then click to START the server back up in the actions menu.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/ff8fb8e3250c4460b7276b7717794467922926d3/images/Slide_32.jpg" alt="DownloadosTicket-Slide_32">
+</p>
+ <br>
+ <hr>
