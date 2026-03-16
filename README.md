@@ -569,3 +569,31 @@ created.</li>
 </p>
  <br>
  <hr>
+
+   <p>
+ <ol type="1">
+ <li>Go to osTicket.</li>
+ <li>Double click on PHP manager.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/10bfafe0acdf198349995b6be6f34a8523eb02fd/images/Slide_30.jpg" alt="DownloadosTicket-Slide_30">
+</p>
+ <br>
+ <hr>
+
+    <p>
+ <ol type="1">
+ <li>Click on Register new PHP version.</li>
+ <li>A window to provide a path to the php executable file will pop up.</li>
+ <li>Click on the 3 dots to provide path.</li>
+   <li>Go to Windows(C:) and navigate to the PHP folde and open it.</li>
+   <li>Select the php-cgi and open it.</li>
+   <li>Click Ok to finalize the path selection.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/988b446cd023e82197f012a80fb0838f5829e4ce/images/Slide_31.jpg" alt="DownloadosTicket-Slide_31">
+</p>
+ <br>
+ <hr>
