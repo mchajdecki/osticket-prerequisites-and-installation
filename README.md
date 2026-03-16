@@ -556,3 +556,16 @@ created.</li>
 </p>
  <br>
  <hr>
+
+ 
+ <h1><i>Configuration in the Internet Information Services (IIS).</i></i></h1>
+<p>
+ <ol type="1">
+ <li>Search for IIS (Internet Information Services) Manager and run it as administrator.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/f5d82f457a78eda40d961380d45f36c0fdc79be9/images/Slide_29.jpg" alt="DownloadosTicket-Slide_29">
+</p>
+ <br>
+ <hr>
