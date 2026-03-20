@@ -624,3 +624,27 @@ created.</li>
 </p>
  <br>
  <hr>
+
+  <p>
+ <ol type="1">
+ <li>The newly extracted folder is in the osTicket-Installation Files Folder.</li>
+   <li>Double click to open the new folder and keep it open for the next part.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/fc092dda11f2e0a1cc86342a5ac03117ed3938d2/images/Slide_34.jpg" alt="DownloadosTicket-Slide_34">
+</p>
+ <br>
+ <hr>
+
+  <p>
+ <ol type="1">
+ <li>Keep the osTicket-v1.15.8 folder open.</li>
+   <li>Right click the folder in the toolbar and then click on File Explorer to continue.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/afb01e8148a88c56a8b82b6c5c6fb4e567bb2dfe/images/Slide_35.jpg" alt="DownloadosTicket-Slide_35">
+</p>
+ <br>
+ <hr>
