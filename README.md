@@ -681,7 +681,7 @@ created.</li>
 <p>
  <ol type="1">
  <li>Navigate to (IIS) Internet Information Services Manager.</li>
-   <li>Go to Sites --> Default Web Site --> osTicket</li>
+   <li>Go to Sites --> Default Web Site --> osTicket.</li>
    <li>Then click on Browse *:80 (http).</li>
  </ol>
  </p>
@@ -698,6 +698,20 @@ created.</li>
  </p>
 <p>
   <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/7467b64ffc663bf55dfdb286d8a7c060640b62c9/images/Slide_39.jpg" alt="DownloadosTicket-Slide_39">
+</p>
+ <br>
+ <hr>
+
+   <h1><i>Enabling extensions.</i></i></h1>
+<p>
+ <ol type="1">
+ <li></li>
+   <li></li>
+   <li></li>
+ </ol>
+ </p>
+<p>
+  <img src="" alt="DownloadosTicket-Slide_38">
 </p>
  <br>
  <hr>
