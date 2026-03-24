@@ -749,4 +749,15 @@ created.</li>
 </p>
  <br>
  <hr>
- 
+
+   <h1><i>Allowing Permissions.</i></i></h1>
+<p>
+ <ol type="1">
+   <li>Right click the folder in the toolbar and go to File Explorer.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/b09cd27adbea22d620663df6c46e2252ab697ac2/images/Slide_44.jpg" alt="DownloadosTicket-Slide_44">
+</p>
+ <br>
+ <hr>
