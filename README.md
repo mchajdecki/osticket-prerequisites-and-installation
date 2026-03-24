@@ -761,3 +761,15 @@ created.</li>
 </p>
  <br>
  <hr>
+
+  <p>
+ <ol type="1">
+ <li>Navigate to the file ost-sampleconfig.php</li>
+   <li>Go to --> This PC --> Windows (C:) --> inetpud --> wwwroot --> osTicket --> include.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/654fa406b1141cd52b9f138f193371fd6c2d3913/images/Slide_45.jpg" alt="DownloadosTicket-Slide_45">
+</p>
+ <br>
+ <hr>
