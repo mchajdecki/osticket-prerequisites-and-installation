@@ -713,3 +713,14 @@ created.</li>
 </p>
  <br>
  <hr>
+
+   <p>
+ <ol type="1">
+ <li>Click on Enable or disable an extension.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/2918617c33ca57de367b3312a6108da35638259b/images/Slide_41.jpg" alt="DownloadosTicket-Slide_41">
+</p>
+ <br>
+ <hr>
