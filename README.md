@@ -745,7 +745,7 @@ created.</li>
  </ol>
  </p>
 <p>
-  <img src="" alt="DownloadosTicket-Slide_43">
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/41856277de0088d91cf42d9c8517156b3db4b75b/images/Slide_43.jpg" alt="DownloadosTicket-Slide_43">
 </p>
  <br>
  <hr>
