@@ -736,3 +736,17 @@ created.</li>
 </p>
  <br>
  <hr>
+
+ <p>
+ <ol type="1">
+ <li>Refresh the osTicket browser.</li>
+   <li>The osTicket browser before refreshing still shows the extensions as disabled.</li>
+   <li>The osTicket browser after refreshing shows the extensions now enabled.</li>
+ </ol>
+ </p>
+<p>
+  <img src="" alt="DownloadosTicket-Slide_43">
+</p>
+ <br>
+ <hr>
+ 
