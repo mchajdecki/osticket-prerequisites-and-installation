@@ -705,13 +705,11 @@ created.</li>
    <h1><i>Enabling extensions.</i></i></h1>
 <p>
  <ol type="1">
- <li></li>
-   <li></li>
-   <li></li>
+   <li>Open (IIS) Information Services Manager and double click on PHP Manager to open it.</li>
  </ol>
  </p>
 <p>
-  <img src="" alt="DownloadosTicket-Slide_38">
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/acdec98625637045ea61808d2c11e4fa38646e2e/images/Slide_40.jpg" alt="DownloadosTicket-Slide_40">
 </p>
  <br>
  <hr>
