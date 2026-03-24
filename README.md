@@ -724,3 +724,15 @@ created.</li>
 </p>
  <br>
  <hr>
+
+  <p>
+ <ol type="1">
+ <li>To enable extensions the button "enable" will show in the Actions menu when they are disabled.</li>
+   <li>Select the (php_imap.dll) - (php_intl.dll) - (php_opcache.dll) and enable to continue.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/901ab06a80dfd9d27445c624dc67468076cea26d/images/Slide_42.jpg" alt="DownloadosTicket-Slide_42">
+</p>
+ <br>
+ <hr>
