@@ -784,3 +784,14 @@ created.</li>
 </p>
  <br>
  <hr>
+
+<p>
+ <ol type="1">
+ <li>Right click on the ost-config.php file and click on Properties to continue.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/da47f81a45ea9c00a148a3107520b1d22fd472a4/images/Slide_47.jpg" alt="DownloadosTicket-Slide_47">
+</p>
+ <br>
+ <hr>
