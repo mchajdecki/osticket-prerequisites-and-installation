@@ -795,3 +795,15 @@ created.</li>
 </p>
  <br>
  <hr>
+
+ <p>
+ <ol type="1">
+ <li>In the Properties menu first click on Security then click on Advanced for more options.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/10eb3afc0e35f08da2884913bc007e0ae440535d/images/Slide_48.jpg" alt="DownloadosTicket-Slide_48">
+</p>
+ <br>
+ <hr>
+
