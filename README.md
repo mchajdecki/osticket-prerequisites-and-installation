@@ -829,5 +829,17 @@ created.</li>
  <br>
  <hr>
 
+    <p>
+ <ol type="1">
+ <li>Click on Select a principal.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/1dd312ffbe238ae66d2a2e334c7e39027fb26326/images/Slide_51.jpg" alt="DownloadosTicket-Slide_51">
+</p>
+ <br>
+ <hr>
+
+
 
 
