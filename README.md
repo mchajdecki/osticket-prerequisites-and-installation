@@ -829,7 +829,8 @@ created.</li>
  <br>
  <hr>
 
-    <p>
+
+<p>
  <ol type="1">
  <li>Click on Select a principal.</li>
  </ol>
@@ -839,6 +840,40 @@ created.</li>
 </p>
  <br>
  <hr>
+
+ <p>
+ <ol type="1">
+ <li>Type in Everyone in the field box and click on Check Names.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/05629f0529ca35f441e3880c274e0f3cbc04a3ec/images/Slide_52.jpg" alt="DownloadosTicket-Slide_52">
+</p>
+ <br>
+ <hr>
+
+  <p>
+ <ol type="1">
+ <li>Check full control and click ok to continue.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/f31295f40d2f4da1a16f6a07958470da01bbf4a7/images/Slide_53.jpg" alt="DownloadosTicket-Slide_53">
+</p>
+ <br>
+ <hr>
+
+  <p>
+ <ol type="1">
+ <li>Click on Ok and then Apply to confirm all settings.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/af2c1ccf38393718cb5c6b1ebf5f9e564569f284/images/Slide_54.jpg" alt="DownloadosTicket-Slide_54">
+</p>
+ <br>
+ <hr>
+
 
 
 
