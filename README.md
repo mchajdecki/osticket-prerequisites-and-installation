@@ -807,3 +807,15 @@ created.</li>
  <br>
  <hr>
 
+  <p>
+ <ol type="1">
+ <li>In the advanced menu click on Disable Inheritance and then click Remove all inherited permissions from this object.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/6f1327d02e6bfa3114ce23e909e994d8879f7a72/images/Slide_49.jpg" alt="DownloadosTicket-Slide_49">
+</p>
+ <br>
+ <hr>
+
+
