@@ -818,4 +818,16 @@ created.</li>
  <br>
  <hr>
 
+   <p>
+ <ol type="1">
+ <li>Click on Add - to add new permissions.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/a8a4e7d5fd7810c691444191259d0e0232b68deb/images/Slide_50.jpg" alt="DownloadosTicket-Slide_50">
+</p>
+ <br>
+ <hr>
+
+
 
