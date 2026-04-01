@@ -773,3 +773,14 @@ created.</li>
 </p>
  <br>
  <hr>
+
+ <p>
+ <ol type="1">
+ <li>Rename the file ost-sampleconfig.php to os-config.php</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/c2f72628f16b6808170a8d6cbbe651112c073027/images/Slide_46.jpg" alt="DownloadosTicket-Slide_46">
+</p>
+ <br>
+ <hr>
