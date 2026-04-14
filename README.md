@@ -866,6 +866,7 @@ created.</li>
   <p>
  <ol type="1">
  <li>Click on Ok and then Apply to confirm all settings.</li>
+   <il>Now O.S Ticket has full control to the configuration file.</il>
  </ol>
  </p>
 <p>
@@ -873,6 +874,69 @@ created.</li>
 </p>
  <br>
  <hr>
+
+  <p>
+ <ol type="1">
+ <li>Go back to the os Ticket webiste and continue the setup.</li>
+   <li>Click continue.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/f1b59681a40680e07ebfb923f5a3d013733749dd/images/Slide_55.jpg" alt="DownloadosTicket-Slide_55">
+</p>
+ <br>
+ <hr>
+
+   <p>
+ <ol type="1">
+ <li>Go back to the os Ticket webiste and continue the setup.</li>
+   <li>Click continue.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/f1b59681a40680e07ebfb923f5a3d013733749dd/images/Slide_55.jpg" alt="DownloadosTicket-Slide_55">
+</p>
+ <br>
+ <hr>
+
+<p>
+ <ol type="1">
+ <li>Fill the system settings information with the name of your helpdesk - email and language.</li>
+   <li>Continue filling the Admin User portion and create a username and password you will use for logging in.</li>
+   <li>Prior to filling the Database Settings - we need to create a specific database to osTicket and provide the credentials in this section.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/5a89199b4b5763bf0416effa52302d6ac74591f2/images/Slide_56.jpg" alt="DownloadosTicket-Slide_56">
+</p>
+ <br>
+ <hr>
+
+   <h1><i>Install HeidiSQL.</i></i></h1>
+<p>
+ <ol type="1">
+   <li>From the osTicket-installation-Files folder - double click on HeidiSQL_12.3.0.6589_Setup to begin installation.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/119cb495680f361e67571aeee88cf02ac784e3d2/images/Slide_57.jpg" alt="DownloadosTicket-Slide_57">
+</p>
+ <br>
+ <hr>
+
+ <p>
+ <ol type="1">
+ <li>Go throught the installation process.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/7b9c670e09aad1f2329abea26780bfd2141e9766/images/Slide_58.jpg" alt="DownloadosTicket-Slide_58">
+</p>
+ <br>
+ <hr>
+
+
+
 
 
 
