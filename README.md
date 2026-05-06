@@ -874,19 +874,7 @@ created.</li>
 </p>
  <br>
  <hr>
-
-  <p>
- <ol type="1">
- <li>Go back to the os Ticket webiste and continue the setup.</li>
-   <li>Click continue.</li>
- </ol>
- </p>
-<p>
-  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/f1b59681a40680e07ebfb923f5a3d013733749dd/images/Slide_55.jpg" alt="DownloadosTicket-Slide_55">
-</p>
- <br>
- <hr>
-
+ 
    <p>
  <ol type="1">
  <li>Go back to the os Ticket webiste and continue the setup.</li>
