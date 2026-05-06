@@ -936,6 +936,44 @@ created.</li>
  <hr>
 
 
+   <h1><i>Configuring Heidi.</i></i></h1>
+<p>
+ <ol type="1">
+   <li>Open Heidi and click on New to continue.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/bef64a573ccfb1bc459f50a7ee1b5d5a3182a636/images/Slide_59.jpg" alt="DownloadosTicket-Slide_59">
+</p>
+ <br>
+ <hr>
+
+  <p>
+ <ol type="1">
+ <li>In the User and the Password section type in root.</li>
+   <li>Click Open to continue.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/2e48119d655f4eeeab8801a976297d5165f6b92b/images/Slide_60.jpg" alt="DownloadosTicket-Slide_60">
+</p>
+ <br>
+ <hr>
+
+<p>
+ <ol type="1">
+ <li>Right click on Unnamed</li>
+   <li>Click on Create new --> Database</li>
+   <li>Clicking on Database opens a new window.</li>
+   <li>In this window type in osTicket and click OK.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/afd87c5b5f916d50bd0dc0b6d8906761ab7460a4/images/Slide_61.jpg" alt="DownloadosTicket-Slide_61">
+</p>
+ <br>
+ <hr>
+
 
 
 
