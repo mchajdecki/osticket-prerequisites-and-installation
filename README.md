@@ -962,6 +962,18 @@ created.</li>
  <br>
  <hr>
 
+  <p>
+ <ol type="1">
+ <li>osTicket got installed succesfully with all the configurations.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/5f0643a7e69b78c873bd40c92f1cfde130907db3/images/Slide_63.jpg" alt="DownloadosTicket-Slide_63">
+</p>
+ <br>
+ <hr>
+
+
 
 
 
