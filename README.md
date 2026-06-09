@@ -982,7 +982,7 @@ created.</li>
 <li><a href="#login">Logging Into Virtual Machine</a></li>
 <li><a href="#download">Download The osTicket Installation Files</a></li>
 <li><a href="#install">Installing features and the contents of the osTicket folder</a></li>
-<h2>To continue to the next part of the osTicket installation and for the post-installation configuration <img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration" alt="Click Here"></h2>
+<h2>To continue to the next part of the osTicket installation and for the post-installation configuration <href src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration" alt="Click Here"></h2>
 </ul>
 <br>
 <a href="#top" ><strong>Back To Top</strong></a>
