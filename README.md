@@ -973,6 +973,19 @@ created.</li>
  <br>
  <hr>
 
+ 
+<h2>This concludes the prerequisites and installation of the open-source help desk ticketing system osTicket. </h2>
+<h2>Use any of the following links below to revisit tutorial sections.</h2>
+<ul>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<li><a href="#"></a></li>
+<h2>To continue to the next post-installation configuration click here <img src="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration" alt="Click Here"></h2>
+</ul>
+<br>
+<a href="#top" ><strong>Back To Top</strong></a>
+
 
 
 
