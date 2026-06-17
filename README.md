@@ -974,7 +974,7 @@ created.</li>
  <hr>
 
  
-<h2>This concludes the general initial set up of osTicket where created ; Roles, Departments, Teams, Agents, Users, Configured SLA;s and created some help topics. </h2>
+<h2>This concludes the tutorial for prerequisites and installation of the open-source help desk ticketing system osTicket.</h2>
 <h2>Use any of the following links below to revisit tutorial sections.</h2>
 <ul>
 <li><a href="#rg">Creating Resource Group</a></li>
