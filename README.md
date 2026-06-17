@@ -974,7 +974,7 @@ created.</li>
  <hr>
 
  
-<h2>This concludes the prerequisites and installation of the open-source help desk ticketing system osTicket. </h2>
+<h2>This concludes the general initial set up of osTicket where created ; Roles, Departments, Teams, Agents, Users, Configured SLA;s and created some help topics. </h2>
 <h2>Use any of the following links below to revisit tutorial sections.</h2>
 <ul>
 <li><a href="#rg">Creating Resource Group</a></li>
@@ -982,7 +982,7 @@ created.</li>
 <li><a href="#login">Logging Into Virtual Machine</a></li>
 <li><a href="#download">Download The osTicket Installation Files</a></li>
 <li><a href="#install">Installing features and the contents of the osTicket folder</a></li>
-<h2>To continue to the next part of the osTicket installation and for the post-installation configuration <a href="https://github.com/mchajdecki/osTicket-Post-Installation-Configuration">Click Here</a>
+<h2>To continue to the next part of the osTicket the ticket lifestyle examples <a href="">Click Here</a>
 </ul>
 <br>
 <a href="#top" ><strong>Back To Top</strong></a>
